@@ -1,2 +1,2 @@
 # Project-Dera-Bird-s-Nest
-Making an website using Django, DRF, React.
+An website using Django, DRF, React.
